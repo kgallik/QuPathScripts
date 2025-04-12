@@ -1,0 +1,2 @@
+clearCellMeasurements()
+resetDetectionClassifications();
